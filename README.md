@@ -28,6 +28,7 @@ NOTE: You must use `127.0.0.1` rather than `localhost`.
 
 | Name     | Description                        |
 |----------|------------------------------------|
+| `format` | Run black on all Python files      |
 | `server` | Run the application                |
-| `update` | Install dependencies               |
 | `setup`  | Set up the development environment |
+| `update` | Install dependencies               |
