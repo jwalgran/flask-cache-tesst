@@ -23,3 +23,11 @@ NOTE: You must use `127.0.0.1` rather than `localhost`.
 | Service           | Port                            |
 | ----------------- | ------------------------------- |
 | Flask app         | [`5002`](http://127.0.0.1:5002) |
+
+## Scripts
+
+| Name     | Description                        |
+|----------|------------------------------------|
+| `server` | Run the application                |
+| `update` | Install dependencies               |
+| `setup`  | Set up the development environment |
